@@ -19,4 +19,4 @@ The HTML was built using the Bootstrap3 framework. The PHP code uses a cURL sess
 
 1. Copy esa.php to your webserver.
 2. Edit the variables in esa.php with your ESA hostnames and credentials.
-3. Open http://www.yoursever.com/esa.php in your browser.
+3. Open http://www.yourserver.com/esa.php in your browser.
