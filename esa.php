@@ -24,7 +24,7 @@ $hostnames   = array(
     "esa3.example.com"
 );
 
-// ESA API port. 6643 is the default port for TLS.
+// ESA API port. 6443 is the default port for TLS.
 // See "Enabling AsyncOS API" at the following URL
 // https://www.cisco.com/c/en/us/td/docs/security/esa/esa_all/esa_api/b_ESA_API_Getting_Started_Guide/b_ESA_API_Getting_Started_Guide_chapter_00.html#con_1092167
 $apiPort     = '6443';
