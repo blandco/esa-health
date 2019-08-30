@@ -1,4 +1,4 @@
-<!-- Add these <style> tags to the <head> section of esa.php to enable dark mode! -->
+<!-- Add these <style> tags to the <head> section of esa.php to enable dark mode!!! -->
 
 <style>
 body {background-color: #262626;}
